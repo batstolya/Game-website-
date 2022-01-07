@@ -1,0 +1,32 @@
+/*Your code goes here*/
+
+body {
+    font-family: 'Roboto';
+}
+
+.header-sticky {
+    background: #fff;
+    z-index: 2;
+    top: 0;
+    position: sticky;
+}
+
+.bg-yellow {
+    background: coral;
+}
+
+.bg-light-yellow {
+    background: lightcoral;
+}
+
+.black {
+    background: #111;
+}
+
+.colr-white {
+    color: white;
+}
+
+.bg-grey {
+    background: #525252
+}
